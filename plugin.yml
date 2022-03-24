@@ -1,5 +1,5 @@
 name: "PMSell"
 api: [4.0.0]
-main: RevandDev\PMSell
+main: revand\pmsell\PMSell
 author: RevandDev
 description: "Coming Soon"
